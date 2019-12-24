@@ -1,5 +1,3 @@
-# calc
-kalkulator sederhana made by me :3
 Kalkulator ini mempermudah untuk menghitung : 
   - Bilangan Bulat, Desimal, Pecahan
   - Menghitung Luas Bangun Datar
